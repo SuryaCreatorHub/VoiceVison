@@ -1,0 +1,7 @@
+.venv/
+.cache/
+.pip-tmp/
+weights/
+__pycache__/
+*.pyc
+*.pt
